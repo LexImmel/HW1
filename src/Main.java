@@ -44,6 +44,6 @@ public class Main {
         System.out.println("Number of workers in company: " + numberOfWorkers);
         var optNumberOfWorkers = numberOfWorkers+94;
         var optWorkHours = optNumberOfWorkers*8;
-        System.out.print("If there are " +optNumberOfWorkers + " workers in company, there is "+ optWorkHours + " hours to share");
+        System.out.print("If there are " + optNumberOfWorkers + " workers in company, there is " + optWorkHours + " hours to share");
         }
     }
