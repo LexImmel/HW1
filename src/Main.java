@@ -24,7 +24,7 @@ public class Main {
         System.out.println("Friend is " + friend);
         friend = friend/7;
         System.out.println("Friend is " + friend);
-        var frog = 3.5;
+        var frog =  3.5;
         System.out.println("Frog is " + frog);
         var bigFrog = frog *10;
         System.out.println("Big Frog is " + bigFrog);
